@@ -1,0 +1,309 @@
+	Match	HOdds	DOdds	VOdds
+0	Holstein Kiel - Wolfsburg  0:1	2.33	3.71	2.90
+1	Wolfsburg - Holstein Kiel  3:1	2.00	3.39	4.09
+2	Bayer Leverkusen - Hannover 3:2	1.21	7.31	12.34
+3	Freiburg - Augsburg 2:0	2.07	3.17	4.07
+4	Hertha Berlin - RB Leipzig 2:6	4.28	3.98	1.80
+5	Mainz - Werder Bremen 1:2	2.55	3.67	2.67
+6	Wolfsburg - FC Koln 4:1	1.64	4.08	5.31
+7	FC Koln - Bayern Munich 1:3	9.37	5.99	1.30
+8	B. Monchengladbach - Freiburg 3:1	1.98	3.53	3.98
+9	Eintracht Frankfurt - Hamburger SV 3:0	1.97	3.79	3.78
+10	RB Leipzig - Wolfsburg 4:1	1.73	4.01	4.69
+11	Werder Bremen - Bayer Leverkusen 0:0	3.85	4.02	1.88
+12	Werder Bremen - Dortmund 1:1	3.96	3.98	1.86
+13	Bayer Leverkusen - Stuttgart 0:1	1.45	4.74	7.09
+14	Freiburg - FC Koln 3:2	2.10	3.56	3.52
+15	Schalke - B. Monchengladbach 1:1	1.91	3.67	4.11
+16	Hoffenheim - Hannover 3:1	1.29	6.15	9.59
+17	FC Koln - Schalke 2:2	3.55	3.51	2.11
+18	Dortmund - Bayer Leverkusen 4:0	2.20	3.64	3.25
+19	Hamburger SV - Freiburg 1:0	2.09	3.38	3.76
+20	RB Leipzig - Hoffenheim 2:5	2.28	3.81	2.99
+21	B. Monchengladbach - Wolfsburg 3:0	1.75	3.87	4.78
+22	Mainz - Freiburg 2:0	2.18	3.23	3.67
+23	Werder Bremen - RB Leipzig 1:1	2.63	3.61	2.60
+24	Bayern Munich - B. Monchengladbach 5:1	1.37	5.35	8.12
+25	Hertha Berlin - FC Koln 2:1	1.83	3.83	4.29
+26	Stuttgart - Hannover 1:1	1.83	3.72	4.46
+27	Wolfsburg - Augsburg 0:0	2.22	3.27	3.50
+28	RB Leipzig - Bayer Leverkusen 1:4	2.21	3.71	3.17
+29	Eintracht Frankfurt - Hoffenheim 1:1	2.37	3.54	2.97
+30	Bayern Munich - Stuttgart 1:4	1.18	8.15	13.39
+31	Hamburger SV - B. Monchengladbach 2:1	2.23	3.95	2.93
+32	Hoffenheim - Dortmund 3:1	2.27	4.09	2.80
+33	Schalke - Eintracht Frankfurt 1:0	2.25	3.42	3.25
+34	Augsburg - Schalke 1:2	3.13	3.25	2.42
+35	Dortmund - Mainz 1:2	1.34	5.49	9.07
+36	Hannover - Hertha Berlin 3:1	2.66	3.33	2.74
+37	Stuttgart - Hoffenheim 2:0	3.01	3.65	2.31
+38	Mainz - RB Leipzig 3:0	3.48	3.64	2.09
+39	Bayern Munich - Eintracht Frankfurt 4:1	1.96	3.65	3.87
+40	Hertha Berlin - Augsburg 2:2	2.07	3.46	3.69
+41	Wolfsburg - Hamburger SV 1:3	2.30	3.38	3.21
+42	Augsburg - Mainz 2:0	2.35	3.28	3.22
+43	Eintracht Frankfurt - Hertha Berlin 0:3	1.93	3.51	4.22
+44	Hannover - Bayern Munich 0:3	6.68	4.85	1.45
+45	Stuttgart - Werder Bremen 2:0	2.46	3.36	2.97
+46	Schalke - Dortmund 2:0	3.01	3.37	2.43
+47	Bayer Leverkusen - Eintracht Frankfurt 4:1	1.71	3.84	5.06
+48	Hoffenheim - Hamburger SV 2:0	1.51	4.61	6.13
+49	Dortmund - Stuttgart 3:0	1.55	4.45	5.96
+50	Hamburger SV - Schalke 3:2	4.35	3.46	1.91
+51	Augsburg - Bayern Munich 1:4	7.25	4.57	1.46
+52	Freiburg - Wolfsburg 0:2	2.37	3.10	3.39
+53	Hannover - Werder Bremen 2:1	3.07	3.62	2.29
+54	Mainz - B. Monchengladbach 0:0	2.99	3.46	2.39
+55	Hertha Berlin - Wolfsburg 0:0	2.28	3.21	3.45
+56	Bayer Leverkusen - Augsburg 0:0	1.48	4.52	6.98
+57	Hoffenheim - FC Koln 6:0	1.59	4.48	5.37
+58	Stuttgart - Hamburger SV 1:1	1.67	3.74	5.67
+59	RB Leipzig - Bayern Munich 2:1	5.37	4.25	1.62
+60	Dortmund - Hannover 1:0	1.46	4.73	6.88
+61	Wolfsburg - Schalke 0:1	3.88	3.34	2.07
+62	B. Monchengladbach - Hoffenheim 3:3	3.11	3.66	2.25
+63	Hamburger SV - Hertha Berlin 1:2	2.83	3.08	2.75
+64	Freiburg - Stuttgart 1:2	2.55	3.14	3.07
+65	Werder Bremen - FC Koln 3:1	1.82	3.76	4.44
+66	Dortmund - Eintracht Frankfurt 3:2	1.85	3.58	4.49
+67	Bayer Leverkusen - B. Monchengladbach 2:0	1.68	4.05	4.99
+68	Hannover - Augsburg 1:3	2.30	3.33	3.27
+69	Hoffenheim - Wolfsburg 3:0	1.72	3.83	5.07
+70	Mainz - Schalke 0:1	3.41	3.33	2.26
+71	Freiburg - Bayern Munich 0:4	7.60	4.69	1.44
+72	RB Leipzig - Dortmund 1:1	2.24	3.64	3.18
+73	Eintracht Frankfurt - Hannover 1:0	1.74	3.74	5.00
+74	Schalke - Hertha Berlin 1:0	1.65	3.75	5.99
+75	B. Monchengladbach - Werder Bremen 2:2	2.01	3.56	3.80
+76	Dortmund - Augsburg 1:1	1.41	4.94	7.84
+77	RB Leipzig - FC Koln 1:2	1.50	4.43	6.69
+78	Werder Bremen - Hamburger SV 1:0	2.07	3.31	3.95
+79	Hannover - B. Monchengladbach 0:1	2.77	3.42	2.58
+80	Stuttgart - Eintracht Frankfurt 1:0	2.42	3.26	3.13
+81	FC Koln - Mainz 1:1	2.11	3.56	3.49
+82	B. Monchengladbach - Hertha Berlin 2:1	1.78	3.74	4.75
+83	Werder Bremen - Eintracht Frankfurt 2:1	2.39	3.41	3.04
+84	Bayern Munich - Dortmund 6:0	1.37	5.35	8.22
+85	Hannover - RB Leipzig 2:3	4.53	3.89	1.78
+86	Schalke - Freiburg 2:0	1.56	3.90	7.12
+87	FC Koln - Bayer Leverkusen 2:0	4.77	4.03	1.71
+88	Augsburg - Werder Bremen 1:3	2.42	3.36	3.04
+89	Eintracht Frankfurt - Mainz 3:0	1.75	3.65	5.14
+90	Stuttgart - RB Leipzig 0:0	3.12	3.35	2.38
+91	Bayern Munich - Hamburger SV 6:0	1.15	8.46	19.78
+92	Hertha Berlin - Freiburg 0:0	2.25	3.09	3.65
+93	FC Koln - Stuttgart 2:3	2.53	3.33	2.88
+94	Augsburg - Hoffenheim 0:2	2.90	3.36	2.51
+95	Hamburger SV - Mainz 0:0	2.21	3.27	3.57
+96	Wolfsburg - Bayer Leverkusen 1:2	3.46	3.53	2.14
+97	Bayer Leverkusen - Schalke 0:2	2.07	3.53	3.65
+98	Bayern Munich - Hertha Berlin 0:0	1.18	7.68	16.33
+99	Hoffenheim - Freiburg 1:1	1.74	3.87	4.78
+100	Mainz - Wolfsburg 1:1	2.26	3.31	3.41
+101	Eintracht Frankfurt - RB Leipzig 2:1	2.64	3.31	2.79
+102	B. Monchengladbach - Dortmund 0:1	3.37	3.62	2.14
+103	Schalke - Hoffenheim 2:1	2.13	3.52	3.49
+104	Freiburg - Werder Bremen 1:0	2.65	3.36	2.73
+105	Wolfsburg - Bayern Munich 1:2	7.38	4.72	1.44
+106	Hertha Berlin - Mainz 0:2	2.01	3.42	4.03
+107	Werder Bremen - Wolfsburg 3:1	1.95	3.58	4.02
+108	Bayern Munich - Schalke 2:1	1.25	6.48	11.90
+109	Dortmund - Hamburger SV 2:0	1.37	5.04	8.81
+110	Hannover - Freiburg 2:1	2.09	3.43	3.72
+111	RB Leipzig - Augsburg 2:0	1.77	3.66	4.98
+112	Hamburger SV - Hannover 1:1	2.18	3.32	3.55
+113	B. Monchengladbach - RB Leipzig 0:1	2.61	3.52	2.71
+114	Hertha Berlin - Hoffenheim 1:1	3.01	3.40	2.41
+115	Schalke - Werder Bremen 1:2	1.81	3.65	4.67
+116	FC Koln - Dortmund 2:3	4.80	3.82	1.77
+117	Hannover - Wolfsburg 0:1	2.33	3.44	3.10
+118	Werder Bremen - Hertha Berlin 0:0	1.98	3.54	3.99
+119	Bayern Munich - Hoffenheim 5:2	1.25	6.47	11.40
+120	RB Leipzig - Hamburger SV 1:1	1.56	4.07	6.54
+121	Eintracht Frankfurt - B. Monchengladbach 2:0	2.47	3.39	2.94
+122	Schalke - Hannover 1:1	1.55	4.33	6.03
+123	Hamburger SV - FC Koln 0:2	2.04	3.39	3.95
+124	Freiburg - RB Leipzig 2:1	3.51	3.56	2.10
+125	Mainz - Stuttgart 3:2	2.72	3.24	2.75
+126	Hertha Berlin - Dortmund 1:1	3.49	3.42	2.18
+127	Dortmund - Wolfsburg 0:0	1.56	4.45	5.79
+128	RB Leipzig - Schalke 3:1	2.35	3.33	3.20
+129	Augsburg - Stuttgart 0:1	2.08	3.42	3.72
+130	FC Koln - Hannover 1:1	2.13	3.54	3.46
+131	Hamburger SV - Bayer Leverkusen 1:2	3.99	3.51	1.98
+132	Stuttgart - B. Monchengladbach 1:0	2.45	3.40	2.96
+133	Bayer Leverkusen - Hertha Berlin 0:2	1.53	4.35	6.43
+134	Eintracht Frankfurt - FC Koln 4:2	1.94	3.50	4.18
+135	Hoffenheim - Mainz 4:2	1.66	4.09	5.15
+136	Augsburg - Eintracht Frankfurt 3:0	2.49	3.20	3.07
+137	Freiburg - Bayer Leverkusen 0:0	4.13	3.73	1.89
+138	Mainz - Bayern Munich 0:2	9.06	5.25	1.35
+139	Wolfsburg - Stuttgart 1:1	2.12	3.44	3.60
+140	Bayer Leverkusen - Mainz 2:0	1.46	4.70	6.92
+141	FC Koln - Augsburg 1:1	2.99	3.36	2.45
+142	Dortmund - Freiburg 2:2	1.37	5.23	8.56
+143	Stuttgart - Schalke 0:2	2.87	3.31	2.56
+144	Bayern Munich - Werder Bremen 4:2	1.15	8.83	16.96
+145	B. Monchengladbach - Augsburg 2:0	2.20	3.47	3.35
+146	Hoffenheim - Bayer Leverkusen 1:4	2.84	3.63	2.42
+147	Wolfsburg - Eintracht Frankfurt 1:3	2.51	3.20	3.04
+148	FC Koln - B. Monchengladbach 2:1	3.26	3.45	2.25
+149	Werder Bremen - Hoffenheim 1:1	2.54	3.43	2.81
+150	Augsburg - Hamburger SV 1:0	1.81	3.55	4.85
+151	Hannover - Mainz 3:2	2.34	3.38	3.15
+152	Bayer Leverkusen - Bayern Munich 1:3	3.94	3.71	1.94
+153	RB Leipzig - Hertha Berlin 2:3	1.60	3.99	6.01
+154	Dortmund - Hoffenheim 2:1	1.65	4.27	5.06
+155	Augsburg - Freiburg 3:3	1.80	3.71	4.69
+156	Stuttgart - Bayern Munich 0:1	8.46	4.88	1.39
+157	B. Monchengladbach - Hamburger SV 3:1	1.94	3.62	4.08
+158	Bayer Leverkusen - Werder Bremen 1:0	1.61	4.17	5.70
+159	Hertha Berlin - Hannover 3:1	1.97	3.45	4.14
+160	Hoffenheim - Stuttgart 1:0	2.02	3.56	3.77
+161	Freiburg - B. Monchengladbach 1:0	2.92	3.40	2.49
+162	Mainz - Dortmund 0:2	5.21	4.23	1.63
+163	Augsburg - Hertha Berlin 1:1	2.13	3.32	3.72
+164	FC Koln - Freiburg 3:4	2.37	3.30	3.18
+165	B. Monchengladbach - Schalke 1:1	2.40	3.42	3.00
+166	Eintracht Frankfurt - Bayern Munich 0:1	6.97	4.68	1.47
+167	RB Leipzig - Mainz 2:2	1.54	4.26	6.48
+168	Stuttgart - Bayer Leverkusen 0:2	3.07	3.51	2.35
+169	Wolfsburg - B. Monchengladbach 3:0	2.56	3.49	2.73
+170	Schalke - FC Koln 2:2	1.42	4.74	8.10
+171	Bayern Munich - Hannover 3:1	1.11	10.31	23.96
+172	Mainz - Augsburg 1:3	3.04	3.27	2.48
+173	Freiburg - Hamburger SV 0:0	2.71	3.20	2.79
+174	FC Koln - Hertha Berlin 0:2	3.11	3.27	2.42
+175	B. Monchengladbach - Bayern Munich 2:1	4.99	4.36	1.63
+176	Dortmund - Schalke 4:4	1.68	4.21	4.88
+177	Freiburg - Mainz 2:1	2.20	3.38	3.48
+178	Hannover - Stuttgart 1:1	2.40	3.35	3.07
+179	Eintracht Frankfurt - Freiburg 1:1	2.01	3.42	3.97
+180	Stuttgart - Hertha Berlin 1:0	2.02	3.44	3.93
+181	Hannover - Bayer Leverkusen 4:4	4.53	3.95	1.77
+182	FC Koln - Wolfsburg 1:0	3.58	3.45	2.12
+183	Eintracht Frankfurt - Schalke 2:2	2.86	3.24	2.61
+184	Werder Bremen - Mainz 2:2	2.01	3.53	3.86
+185	Bayern Munich - FC Koln 1:0	1.08	12.75	30.99
+186	Schalke - Augsburg 3:2	2.05	3.35	3.92
+187	Hamburger SV - Eintracht Frankfurt 1:2	2.35	3.24	3.29
+188	Wolfsburg - RB Leipzig 1:1	2.85	3.49	2.48
+189	Hannover - Hoffenheim 2:0	3.49	3.60	2.11
+190	Dortmund - Werder Bremen 1:2	1.41	5.23	7.24
+191	Hamburger SV - Wolfsburg 0:0	2.65	3.31	2.78
+192	Hertha Berlin - Eintracht Frankfurt 1:2	2.55	3.16	3.03
+193	Bayer Leverkusen - Dortmund 1:1	2.28	3.89	2.90
+194	Hoffenheim - RB Leipzig 4:0	3.38	3.71	2.11
+195	Werder Bremen - Stuttgart 1:0	2.17	3.59	3.33
+196	Hamburger SV - Hoffenheim 3:0	2.56	3.46	2.79
+197	Augsburg - Wolfsburg 2:1	2.16	3.42	3.55
+198	Eintracht Frankfurt - Bayer Leverkusen 0:1	2.55	3.52	2.75
+199	RB Leipzig - Werder Bremen 2:0	1.47	4.68	6.72
+200	Werder Bremen - Hannover 4:0	2.23	3.49	3.27
+201	Hertha Berlin - B. Monchengladbach 2:4	3.01	3.43	2.40
+202	Bayern Munich - Augsburg 3:0	1.18	8.03	14.63
+203	Mainz - FC Koln 1:0	1.93	3.57	4.15
+204	Stuttgart - Dortmund 2:1	4.30	3.98	1.81
+205	Wolfsburg - Hertha Berlin 3:3	2.01	3.33	4.16
+206	Dortmund - Bayern Munich 1:3	3.61	3.89	1.98
+207	B. Monchengladbach - Mainz 1:1	1.61	4.20	5.60
+208	Hamburger SV - Stuttgart 3:1	2.72	3.27	2.72
+209	Eintracht Frankfurt - Werder Bremen 2:1	1.80	3.77	4.60
+210	Stuttgart - Freiburg 3:0	1.87	3.72	4.23
+211	Bayern Munich - RB Leipzig 2:0	1.39	5.36	7.64
+212	Hannover - Dortmund 4:2	7.02	4.73	1.46
+213	Hoffenheim - B. Monchengladbach 1:3	2.23	3.71	3.12
+214	Mainz - Eintracht Frankfurt 1:1	2.94	3.32	2.50
+215	Wolfsburg - Hoffenheim 1:1	2.55	3.55	2.73
+216	FC Koln - Werder Bremen 0:0	2.50	3.38	2.89
+217	Hamburger SV - Bayern Munich 0:1	13.17	7.12	1.22
+218	B. Monchengladbach - Bayer Leverkusen 1:5	2.79	3.65	2.47
+219	RB Leipzig - Stuttgart 1:0	1.45	4.72	7.13
+220	Schalke - Mainz 2:0	1.74	3.79	4.98
+221	Werder Bremen - B. Monchengladbach 0:2	2.78	3.47	2.54
+222	Dortmund - RB Leipzig 2:3	1.54	4.47	5.92
+223	Hannover - Eintracht Frankfurt 1:2	2.63	3.19	2.86
+224	Hoffenheim - Augsburg 2:2	1.86	3.77	4.22
+225	Stuttgart - FC Koln 2:1	1.89	3.63	4.31
+226	FC Koln - RB Leipzig 1:2	3.73	3.42	2.09
+227	Freiburg - Hoffenheim 3:2	3.26	3.54	2.22
+228	Hamburger SV - Werder Bremen 0:0	2.67	3.30	2.75
+229	Schalke - Hamburger SV 2:0	1.71	3.71	5.32
+230	Bayer Leverkusen - RB Leipzig 2:2	2.41	3.66	2.84
+231	Hoffenheim - Eintracht Frankfurt 1:1	2.26	3.57	3.14
+232	Wolfsburg - Freiburg 3:1	1.65	3.93	5.60
+233	FC Koln - Hoffenheim 0:3	2.63	3.54	2.65
+234	Augsburg - Bayer Leverkusen 1:1	3.25	3.67	2.17
+235	Freiburg - Schalke 0:1	3.78	3.45	2.06
+236	RB Leipzig - Hannover 2:1	1.49	4.57	6.76
+237	Werder Bremen - Augsburg 0:3	2.14	3.44	3.56
+238	Bayer Leverkusen - FC Koln 2:1	1.42	5.06	7.29
+239	Hertha Berlin - Hamburger SV 2:1	2.13	3.24	3.84
+240	Schalke - Wolfsburg 1:1	1.83	3.62	4.59
+241	Freiburg - Hertha Berlin 1:1	2.91	3.15	2.63
+242	Augsburg - Hannover 1:2	1.97	3.56	3.97
+243	Eintracht Frankfurt - Dortmund 2:2	3.91	3.69	1.95
+244	Bayer Leverkusen - Wolfsburg 2:2	1.57	4.34	5.81
+245	Bayern Munich - Freiburg 5:0	1.09	12.48	26.64
+246	Hertha Berlin - Schalke 0:2	2.68	3.20	2.82
+247	Mainz - Hamburger SV 3:2	1.79	3.66	4.78
+248	Hertha Berlin - Bayern Munich 2:2	11.22	5.85	1.29
+249	Wolfsburg - Mainz 1:1	2.17	3.34	3.57
+250	Augsburg - Dortmund 1:2	5.63	4.30	1.59
+251	Eintracht Frankfurt - Stuttgart 2:1	2.10	3.36	3.77
+252	Schalke - Bayer Leverkusen 1:1	2.56	3.53	2.73
+253	Bayer Leverkusen - Hamburger SV 3:0	1.38	5.21	8.28
+254	Dortmund - B. Monchengladbach 6:1	1.40	5.13	7.64
+255	Mainz - Hertha Berlin 1:0	2.22	3.29	3.48
+256	Stuttgart - Augsburg 0:0	2.20	3.37	3.47
+257	Bayern Munich - Wolfsburg 2:2	1.13	9.60	19.49
+258	Freiburg - Hannover 1:1	2.93	3.26	2.53
+259	Hertha Berlin - Bayer Leverkusen 2:1	3.15	3.43	2.30
+260	FC Koln - Eintracht Frankfurt 0:1	2.91	3.25	2.55
+261	Augsburg - RB Leipzig 1:0	3.32	3.50	2.20
+262	Wolfsburg - Werder Bremen 1:1	1.99	3.56	3.86
+263	Dortmund - FC Koln 5:0	1.32	5.87	9.03
+264	Hoffenheim - Hertha Berlin 1:1	1.76	3.80	4.80
+265	RB Leipzig - B. Monchengladbach 2:2	1.70	4.06	4.89
+266	Eintracht Frankfurt - Augsburg 1:2	1.95	3.46	4.20
+267	Werder Bremen - Schalke 1:2	2.75	3.38	2.62
+268	Hannover - Hamburger SV 2:0	2.01	3.47	3.96
+269	Schalke - Stuttgart 3:1	1.75	3.77	4.86
+270	Hoffenheim - Bayern Munich 2:0	6.63	4.84	1.46
+271	B. Monchengladbach - Eintracht Frankfurt 0:1	1.92	3.58	4.18
+272	Mainz - Bayer Leverkusen 3:1	3.31	3.53	2.19
+273	Hamburger SV - RB Leipzig 0:2	4.05	3.68	1.92
+274	Hannover - Schalke 1:0	3.11	3.33	2.39
+275	Dortmund - Hertha Berlin 2:0	1.40	4.99	8.08
+276	Bayer Leverkusen - Hoffenheim 2:2	2.00	3.80	3.63
+277	Stuttgart - Mainz 1:0	2.42	3.40	3.01
+278	FC Koln - Hamburger SV 1:3	2.02	3.41	3.96
+279	B. Monchengladbach - FC Koln 1:0	1.81	3.70	4.71
+280	B. Monchengladbach - Hannover 2:1	1.73	3.88	4.87
+281	Hannover - FC Koln 0:0	2.01	3.52	3.83
+282	Hoffenheim - Schalke 2:0	2.11	3.59	3.47
+283	RB Leipzig - Eintracht Frankfurt 2:1	1.76	3.67	5.05
+284	Werder Bremen - Freiburg 0:0	1.78	3.92	4.48
+285	Hamburger SV - Dortmund 0:3	8.19	5.23	1.37
+286	Mainz - Hoffenheim 2:3	2.56	3.44	2.76
+287	Schalke - Bayern Munich 0:3	6.04	4.34	1.56
+288	B. Monchengladbach - Stuttgart 2:0	1.71	3.96	4.94
+289	Bayer Leverkusen - Freiburg 4:0	1.41	4.97	7.78
+290	Bayern Munich - Mainz 4:0	1.16	8.16	16.75
+291	Stuttgart - Wolfsburg 1:0	2.28	3.50	3.16
+292	Hertha Berlin - Werder Bremen 1:1	2.10	3.48	3.61
+293	Augsburg - FC Koln 3:0	2.27	3.36	3.33
+294	Freiburg - Dortmund 0:0	8.92	5.53	1.34
+295	Wolfsburg - Hannover 1:1	1.86	3.61	4.37
+296	RB Leipzig - Freiburg 4:1	1.38	4.91	8.79
+297	Augsburg - B. Monchengladbach 2:2	3.34	3.38	2.24
+298	Eintracht Frankfurt - Wolfsburg 0:1	2.17	3.31	3.59
+299	Werder Bremen - Bayern Munich 0:2	12.15	6.79	1.24
+300	Freiburg - Eintracht Frankfurt 0:0	2.76	3.17	2.79
+301	Schalke - RB Leipzig 2:0	2.81	3.40	2.56
+302	Hertha Berlin - Stuttgart 2:0	2.00	3.53	3.90
+303	Mainz - Hannover 0:1	1.89	3.61	4.30
+304	Bayern Munich - Bayer Leverkusen 3:1	1.27	6.24	10.49
+305	Hamburger SV - Augsburg 1:0	2.22	3.30	3.49
+306	Hoffenheim - Werder Bremen 1:0	1.79	4.01	4.29
+307	Wolfsburg - Dortmund 0:3	3.89	3.81	1.91

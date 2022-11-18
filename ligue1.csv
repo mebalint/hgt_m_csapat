@@ -1,0 +1,385 @@
+	Match	HOdds	DOdds	VOdds
+0	Toulouse - AC Ajaccio  1:0	1.72	3.61	5.05
+1	AC Ajaccio - Toulouse  0:3	3.65	3.12	2.16
+2	AC Ajaccio - Le Havre 3:2 pen.	2.26	3.04	3.44
+3	Caen - Paris SG 0:0	4.01	3.54	1.94
+4	Lyon - Nice 3:2	1.46	4.96	6.38
+5	Metz - Bordeaux 0:4	7.71	5.12	1.38
+6	Rennes - Montpellier 1:1	1.90	3.44	4.37
+7	Toulouse - Guingamp 2:1	1.63	4.22	5.10
+8	Le Havre - Brest 2:0	1.98	3.33	3.80
+9	Amiens - Metz 2:0	1.72	3.94	4.69
+10	Bordeaux - Toulouse 4:2	1.78	3.65	4.74
+11	Monaco - St Etienne 1:0	1.70	3.97	4.88
+12	Nice - Caen 4:1	1.57	3.99	6.17
+13	Strasbourg - Lyon 3:2	5.48	4.54	1.56
+14	Guingamp - Marseille 3:3	4.95	4.23	1.65
+15	Marseille - Nice 2:1	1.80	3.79	4.36
+16	Dijon - Guingamp 3:1	2.74	3.41	2.56
+17	Nantes - Montpellier 0:2	2.13	3.25	3.69
+18	Toulouse - Lille 2:3	2.32	3.20	3.29
+19	St Etienne - Bordeaux 1:3	2.02	3.34	3.99
+20	Amiens - Paris SG 2:2	9.86	5.98	1.28
+21	Paris SG - Guingamp 2:2	1.10	10.41	22.63
+22	Rennes - Toulouse 2:1	1.91	3.41	4.32
+23	Bordeaux - Dijon 3:1	1.53	4.20	6.51
+24	Monaco - Amiens 0:0	1.22	6.56	13.55
+25	Troyes - Caen 3:1	2.37	3.13	3.29
+26	Montpellier - St Etienne 0:1	2.49	3.17	3.06
+27	Caen - Toulouse 0:0	2.89	2.78	2.93
+28	Bordeaux - Paris SG 0:1	6.49	4.58	1.48
+29	Nice - Montpellier 1:0	2.00	3.27	4.21
+30	Amiens - Strasbourg 3:1	2.62	3.10	2.95
+31	Dijon - Angers 2:1	2.30	3.59	3.00
+32	Marseille - Amiens 2:1	1.22	7.22	11.76
+33	Nantes - Strasbourg 1:0	1.78	3.75	4.60
+34	St Etienne - Lille 5:0	1.58	4.25	5.60
+35	Troyes - Monaco 0:3	4.71	3.89	1.72
+36	Angers - Nantes 0:2	2.32	3.24	3.24
+37	Lille - Dijon 2:1	1.47	4.51	6.88
+38	Montpellier - Troyes 1:1	1.71	3.80	5.12
+39	Paris SG - Rennes 0:2	1.31	5.88	8.98
+40	Caen - Monaco 1:2	3.12	3.31	2.35
+41	Metz - Angers 1:2	2.80	3.32	2.54
+42	Rennes - Strasbourg 2:1	1.88	3.56	4.26
+43	Lyon - Troyes 3:0	1.16	8.35	15.69
+44	Angers - Marseille 1:1	4.59	3.73	1.78
+45	Lille - Metz 3:1	1.89	3.55	4.22
+46	Strasbourg - Nice 1:1	3.26	3.22	2.33
+47	Lyon - Nantes 2:0	1.28	5.88	10.25
+48	St Etienne - Troyes 2:1	1.51	4.11	7.13
+49	Toulouse - Angers 2:0	2.29	3.11	3.48
+50	Guingamp - Monaco 3:1	4.44	3.91	1.77
+51	Marseille - Lille 5:1	1.34	5.23	9.21
+52	Dijon - Lyon 2:5	7.93	5.02	1.39
+53	Paris SG - Monaco 7:1	1.29	6.16	9.22
+54	Montpellier - Bordeaux 1:3	2.16	3.09	3.86
+55	Lille - Guingamp 2:2	2.32	3.25	3.24
+56	Rennes - Metz 1:2	1.42	4.67	7.79
+57	Lyon - Amiens 3:0	1.21	6.68	14.52
+58	Angers - Nice 1:1	2.54	3.21	2.92
+59	Marseille - Montpellier 0:0	1.82	3.52	4.67
+60	Nice - Rennes 1:1	1.86	3.56	4.37
+61	Amiens - Caen 3:0	2.47	2.99	3.27
+62	Bordeaux - Lille 2:1	1.69	3.62	5.56
+63	Toulouse - Dijon 0:1	1.97	3.43	4.04
+64	St Etienne - Paris SG 1:1	7.63	5.15	1.39
+65	Rennes - Monaco 1:1	3.49	3.45	2.12
+66	Lyon - Toulouse 2:0	1.39	4.80	8.31
+67	Lille - Amiens 0:1	2.09	3.16	3.99
+68	Strasbourg - Metz 2:2	1.86	3.65	4.26
+69	Guingamp - Bordeaux 2:1	3.06	3.09	2.53
+70	Dijon - Marseille 1:3	4.81	3.89	1.72
+71	Marseille - Lyon 2:3	1.93	3.60	4.04
+72	Metz - Nantes 1:1	3.66	3.30	2.12
+73	Amiens - Troyes 1:1	2.27	3.11	3.53
+74	Montpellier - Dijon 2:2	1.69	3.68	5.53
+75	Bordeaux - Rennes 0:2	2.08	3.22	3.93
+76	Monaco - Lille 2:1	1.30	5.55	10.37
+77	Paris SG - Angers 2:1	1.08	12.21	27.56
+78	Toulouse - Marseille 1:2	4.52	3.49	1.85
+79	Guingamp - Nice 2:5	2.77	3.15	2.72
+80	Bordeaux - Angers 0:0	1.88	3.27	4.82
+81	Nantes - Troyes 1:0	1.58	3.72	7.04
+82	Metz - Caen 1:1	2.35	3.26	3.19
+83	Nantes - Rennes 1:1	2.30	3.12	3.45
+84	Troyes - Marseille 2:3	6.48	4.29	1.51
+85	Nantes - Dijon 1:1	1.55	4.03	6.55
+86	Strasbourg - St Etienne 0:1	3.09	3.29	2.39
+87	Metz - Lyon 0:5	6.21	4.52	1.50
+88	Angers - Strasbourg 1:1	1.86	3.42	4.61
+89	Guingamp - Troyes 4:0	1.88	3.46	4.45
+90	Monaco - Nantes 2:1	1.61	3.92	5.79
+91	Caen - Montpellier 1:3	3.25	3.01	2.47
+92	Nantes - St Etienne 0:3	2.23	3.12	3.62
+93	Troyes - Nice 0:2	3.77	3.33	2.09
+94	St Etienne - Guingamp 2:0	1.75	3.57	5.13
+95	Nice - Paris SG 1:2	9.05	5.61	1.32
+96	Angers - Caen 3:0	1.97	3.23	4.42
+97	Toulouse - Strasbourg 2:2	1.98	3.32	4.18
+98	Lyon - Caen 1:0	1.38	4.88	8.58
+99	Lille - Montpellier 1:1	3.12	3.02	2.53
+100	Dijon - Amiens 1:1	2.02	3.33	4.00
+101	Paris SG - Metz 5:0	1.08	12.96	26.50
+102	Strasbourg - Monaco 1:3	5.05	3.75	1.72
+103	Marseille - Nantes 1:1	1.50	4.14	7.23
+104	Caen - Strasbourg 2:0	2.15	3.21	3.72
+105	Amiens - Rennes 0:2	3.33	3.10	2.36
+106	Metz - Toulouse 1:1	2.71	3.15	2.78
+107	Troyes - Paris SG 0:2	9.25	5.29	1.33
+108	Monaco - Bordeaux 2:1	1.66	3.82	5.57
+109	Paris SG - Marseille 3:0	1.25	6.47	10.57
+110	Bordeaux - Nice 0:0	1.99	3.24	4.26
+111	Dijon - Caen 2:0	2.32	3.26	3.24
+112	Lille - Angers 1:2	2.42	3.07	3.26
+113	Rennes - Troyes 2:0	1.65	3.73	5.83
+114	Strasbourg - Montpellier 0:0	3.05	3.10	2.52
+115	Troyes - Dijon 0:0	2.54	3.20	2.92
+116	Marseille - Bordeaux 1:0	1.61	3.98	5.86
+117	Nice - Nantes 1:1	2.22	3.23	3.50
+118	Amiens - Toulouse 0:0	2.65	2.98	3.01
+119	Caen - Rennes 2:2	2.58	3.09	2.99
+120	Troyes - Metz 1:0	2.49	3.21	3.02
+121	Monaco - Dijon 4:0	1.34	5.39	8.87
+122	Lyon - Rennes 0:2	1.41	4.75	7.77
+123	Strasbourg - Troyes 2:1	1.88	3.42	4.55
+124	Angers - Monaco 0:4	3.09	3.23	2.42
+125	Dijon - Nice 3:2	2.79	3.24	2.64
+126	Metz - Montpellier 0:1	3.29	3.20	2.34
+127	St Etienne - Marseille 2:2	3.89	3.52	1.97
+128	Monaco - Lyon 3:2	2.49	3.54	2.81
+129	Rennes - Guingamp 0:1	1.81	3.43	4.94
+130	Montpellier - Angers 2:1	2.02	3.12	4.31
+131	Rennes - St Etienne 1:1	2.14	3.20	3.73
+132	Montpellier - Lyon 1:1	2.93	3.18	2.60
+133	Angers - Guingamp 3:0	1.99	3.27	4.25
+134	St Etienne - Dijon 2:2	1.68	3.71	5.51
+135	Nice - Lille 2:1	1.75	3.50	5.27
+136	Lyon - St Etienne 1:1	1.58	4.07	5.98
+137	Guingamp - Metz 2:2	1.98	3.42	4.02
+138	Nantes - Amiens 0:1	1.61	3.64	6.78
+139	Toulouse - Monaco 3:3	4.74	3.56	1.81
+140	Lille - Lyon 2:2	4.30	3.52	1.89
+141	Angers - St Etienne 0:1	2.60	3.08	2.98
+142	Montpellier - Guingamp 1:1	1.74	3.51	5.42
+143	Paris SG - Strasbourg 5:2	1.06	14.79	38.23
+144	Nantes - Lille 2:2	1.89	3.29	4.68
+145	Bordeaux - Amiens 3:2	1.52	3.88	7.72
+146	Guingamp - Caen 0:0	2.09	3.22	3.90
+147	Toulouse - Paris SG 0:1	16.40	7.12	1.19
+148	Caen - Nantes 3:2	2.95	2.98	2.69
+149	Nice - Toulouse 0:1	1.82	3.47	4.82
+150	Amiens - St Etienne 0:2	2.82	3.02	2.78
+151	Lille - Paris SG 0:3	18.75	7.68	1.16
+152	Marseille - Metz 6:3	1.28	5.92	10.74
+153	Marseille - Monaco 2:2	2.00	3.66	3.75
+154	Lille - Strasbourg 2:1	2.20	3.22	3.56
+155	Angers - Amiens 1:0	1.91	3.26	4.64
+156	Metz - Nice 2:1	2.97	3.23	2.50
+157	Toulouse - Troyes 1:0	2.02	3.26	4.12
+158	Dijon - Rennes 2:1	2.72	3.35	2.63
+159	Lyon - Paris SG 2:1	5.50	4.35	1.59
+160	Nice - St Etienne 1:0	1.79	3.55	4.85
+161	Amiens - Guingamp 3:1	2.69	3.08	2.85
+162	Rennes - Angers 1:0	2.14	3.29	3.64
+163	Troyes - Lille 1:0	2.68	3.04	2.91
+164	Caen - Marseille 0:2	4.64	3.53	1.83
+165	Paris SG - Dijon 8:0	1.05	15.19	37.09
+166	Angers - Troyes 3:1	1.89	3.28	4.68
+167	Lille - Rennes 1:2	2.30	3.16	3.38
+168	Toulouse - Nantes 1:1	2.74	2.99	2.90
+169	Monaco - Nice 2:2	1.74	3.80	4.85
+170	Marseille - Strasbourg 2:0	1.33	5.46	9.23
+171	Nantes - Paris SG 0:1	9.55	5.56	1.31
+172	St Etienne - Toulouse 2:0	2.14	3.24	3.69
+173	Caen - Lille 0:1	2.28	3.07	3.56
+174	Montpellier - Monaco 0:0	2.81	3.13	2.70
+175	Troyes - Bordeaux 0:1	2.89	3.04	2.70
+176	Strasbourg - Guingamp 0:2	2.61	3.23	2.87
+177	Amiens - Nantes 0:1	2.91	2.94	2.76
+178	Bordeaux - Montpellier 0:2	2.17	3.06	3.89
+179	Lille - Nice 1:1	2.79	3.15	2.70
+180	Strasbourg - Bordeaux 0:2	3.14	3.10	2.48
+181	Bordeaux - Lyon 3:1	3.67	3.44	2.08
+182	Guingamp - Nantes 0:3	2.63	3.07	2.94
+183	St Etienne - Caen 2:1	2.00	3.27	4.12
+184	Paris SG - Montpellier 4:0	1.13	8.89	21.34
+185	Monaco - Metz 3:1	1.34	5.39	8.65
+186	Montpellier - Toulouse 2:1	1.83	3.33	5.06
+187	Strasbourg - Dijon 3:2	2.18	3.41	3.41
+188	Nantes - Bordeaux 0:1	2.24	3.00	3.72
+189	Amiens - Montpellier 1:1	3.64	3.00	2.28
+190	Guingamp - Lyon 0:2	3.59	3.51	2.08
+191	Metz - St Etienne 3:0	2.46	3.33	2.96
+192	Bordeaux - Caen 0:2	1.75	3.48	5.37
+193	Lyon - Angers 1:1	1.42	4.57	8.00
+194	Dijon - Metz 1:1	1.92	3.50	4.22
+195	Nice - Amiens 1:0	1.57	3.94	6.51
+196	Rennes - Marseille 0:3	3.90	3.40	2.02
+197	Angers - Dijon 2:1	2.02	3.29	4.03
+198	Guingamp - St Etienne 2:1	1.92	3.45	4.26
+199	Marseille - Troyes 3:1	1.29	5.65	10.81
+200	Metz - Strasbourg 3:0	2.77	3.29	2.62
+201	Paris SG - Caen 3:1	1.07	12.42	31.31
+202	Lyon - Marseille 2:0	2.24	3.51	3.21
+203	Nantes - Angers 1:0	1.93	3.17	4.73
+204	Caen - Guingamp 0:0	2.38	3.11	3.29
+205	Montpellier - Metz 1:3	1.47	4.15	7.98
+206	Troyes - Amiens 1:0	2.53	3.14	3.01
+207	St Etienne - Monaco 0:4	4.64	3.74	1.78
+208	Marseille - St Etienne 3:0	1.41	4.74	7.88
+209	Amiens - Lyon 1:2	5.09	3.91	1.69
+210	Angers - Montpellier 1:1	2.68	2.97	3.00
+211	Metz - Rennes 1:1	3.77	3.20	2.14
+212	Toulouse - Caen 2:0	2.28	3.09	3.52
+213	Bordeaux - Strasbourg 0:3	1.66	3.79	5.56
+214	Montpellier - Marseille 1:1	3.39	3.30	2.26
+215	St Etienne - Nantes 1:1	2.21	3.04	3.78
+216	Lille - Toulouse 1:0	1.99	3.29	4.21
+217	Nice - Metz 3:1	1.48	4.35	7.03
+218	Troyes - Guingamp 0:1	2.47	3.16	3.08
+219	Dijon - Bordeaux 3:2	3.18	3.22	2.37
+220	Paris SG - Troyes 2:0	1.04	16.87	43.40
+221	Guingamp - Montpellier 0:0	2.83	3.03	2.76
+222	Metz - Marseille 0:3	6.10	4.34	1.53
+223	Toulouse - Nice 1:2	2.71	3.10	2.83
+224	Bordeaux - St Etienne 3:0	1.79	3.47	5.05
+225	Strasbourg - Caen 0:0	2.03	3.43	3.80
+226	Monaco - Paris SG 1:2	7.05	5.25	1.41
+227	Nice - Lyon 0:5	3.07	3.52	2.29
+228	Caen - Bordeaux 1:0	3.35	3.21	2.30
+229	Metz - Amiens 0:2	2.81	3.02	2.80
+230	Monaco - Rennes 2:1	1.41	4.70	8.07
+231	Toulouse - Lyon 1:2	4.19	3.68	1.86
+232	Nice - Bordeaux 1:0	2.13	3.35	3.62
+233	Dijon - Lille 3:0	2.30	3.21	3.35
+234	Strasbourg - Toulouse 2:1	2.22	3.23	3.50
+235	Rennes - Paris SG 1:4	13.63	6.72	1.21
+236	Nantes - Nice 1:2	2.15	3.20	3.73
+237	Guingamp - Dijon 4:0	2.21	3.29	3.46
+238	Monaco - Troyes 3:2	1.30	5.43	10.83
+239	Paris SG - Lille 3:1	1.12	9.79	21.66
+240	Caen - Lyon 1:2	4.37	3.74	1.82
+241	Monaco - Angers 1:0	1.47	4.67	6.72
+242	Rennes - Amiens 2:0	2.04	3.08	4.36
+243	Strasbourg - Paris SG 2:1	17.75	8.59	1.15
+244	Angers - Rennes 1:2	2.13	3.17	3.82
+245	Lyon - Lille 1:2	1.33	5.45	9.43
+246	Nantes - Monaco 1:0	3.63	3.37	2.10
+247	Amiens - Dijon 2:1	2.37	3.13	3.27
+248	Marseille - Guingamp 1:0	1.43	4.72	7.47
+249	Dijon - Toulouse 3:1	2.24	3.18	3.52
+250	Montpellier - Lille 3:0	1.98	3.18	4.47
+251	Rennes - Nantes 2:1	2.67	2.88	3.10
+252	St Etienne - Strasbourg 2:2	1.93	3.46	4.17
+253	Amiens - Lille 3:0	2.87	3.11	2.66
+254	Bordeaux - Marseille 1:1	2.27	3.41	3.23
+255	Caen - Nice 1:1	2.61	3.13	2.91
+256	Dijon - Troyes 3:1	1.83	3.52	4.62
+257	Strasbourg - Rennes 2:1	2.18	3.20	3.69
+258	Paris SG - Nantes 4:1	1.12	9.78	21.06
+259	Amiens - Monaco 1:1	5.80	3.98	1.61
+260	St Etienne - Lyon 0:5	3.55	3.44	2.12
+261	Metz - Lille 0:3	3.08	3.24	2.43
+262	Monaco - Guingamp 6:0	1.43	4.76	7.33
+263	Nantes - Toulouse 2:1	1.99	3.10	4.57
+264	Angers - Paris SG 0:5	10.64	6.15	1.27
+265	Rennes - Bordeaux 1:0	3.27	3.18	2.35
+266	Lille - Marseille 0:1	3.26	3.46	2.22
+267	Lyon - Metz 2:0	1.18	8.01	14.74
+268	Caen - Troyes 1:0	1.71	3.59	5.55
+269	Guingamp - Amiens 1:1	1.87	3.31	4.77
+270	Strasbourg - Angers 2:2	2.90	3.24	2.56
+271	Paris SG - Nice 3:0	1.15	8.70	16.91
+272	Marseille - Paris SG 2:2	8.21	5.59	1.35
+273	Nice - Strasbourg 1:2	1.72	3.73	5.12
+274	Amiens - Bordeaux 1:0	5.84	3.76	1.65
+275	Metz - Dijon 1:2	2.67	3.24	2.75
+276	Rennes - Lille 1:0	2.18	3.21	3.63
+277	St Etienne - Montpellier 0:1	2.15	3.13	3.84
+278	Strasbourg - Marseille 3:3	4.10	3.57	1.92
+279	Bordeaux - Nantes 1:1	1.67	3.68	5.76
+280	Caen - Angers 0:2	2.44	3.10	3.20
+281	Troyes - Angers 3:0	3.31	3.25	2.29
+282	Lyon - Montpellier 0:0	1.53	4.18	6.51
+283	Guingamp - Angers 1:1	2.27	3.30	3.29
+284	Toulouse - Metz 0:0	1.81	3.45	4.94
+285	Lille - St Etienne 3:1	2.20	3.20	3.59
+286	Marseille - Caen 5:0	1.55	4.04	6.52
+287	Nice - Dijon 1:0	1.93	3.48	4.17
+288	Montpellier - Amiens 1:1	1.70	3.44	6.01
+289	Troyes - Strasbourg 3:0	2.80	3.29	2.60
+290	Toulouse - St Etienne 0:0	2.36	3.10	3.33
+291	Dijon - Nantes 1:0	2.68	3.11	2.83
+292	Montpellier - Rennes 0:1	2.01	3.15	4.34
+293	Bordeaux - Monaco 0:2	2.56	3.42	2.76
+294	Troyes - Lyon 0:5	6.11	4.23	1.55
+295	Angers - Toulouse 0:1	2.01	3.29	4.07
+296	Nantes - Guingamp 2:1	2.21	3.14	3.63
+297	Monaco - Caen 2:0	1.38	4.91	8.23
+298	Montpellier - Nice 2:0	2.68	3.15	2.83
+299	Guingamp - Rennes 2:0	2.11	3.36	3.62
+300	Lille - Troyes 2:2	1.66	3.75	5.54
+301	Toulouse - Amiens 1:0	1.84	3.28	5.07
+302	Lyon - Monaco 3:2	2.00	3.99	3.46
+303	Nice - Marseille 2:4	2.43	3.42	2.94
+304	Troyes - St Etienne 2:1	3.74	3.22	2.13
+305	Dijon - Strasbourg 1:1	2.16	3.36	3.51
+306	Nantes - Metz 1:0	1.61	3.75	6.29
+307	Paris SG - Bordeaux 6:2	1.15	8.46	17.21
+308	Monaco - Montpellier 1:1	1.34	5.17	9.52
+309	Marseille - Toulouse 2:0	1.55	4.08	6.41
+310	St Etienne - Rennes 2:2	2.27	3.17	3.44
+311	Bordeaux - Guingamp 3:1	1.67	3.79	5.36
+312	Lyon - Dijon 3:3	1.34	5.39	8.74
+313	Montpellier - Paris SG 0:0	13.39	6.17	1.23
+314	Lille - Monaco 0:4	4.87	3.93	1.71
+315	Paris SG - Lyon 2:0	1.16	8.51	14.83
+316	Rennes - Nice 0:1	2.36	3.35	3.08
+317	Dijon - St Etienne 0:1	2.74	3.14	2.77
+318	Nantes - Caen 1:0	1.97	3.23	4.39
+319	Monaco - Strasbourg 3:0	1.26	6.24	11.54
+320	Toulouse - Bordeaux 0:1	3.04	3.18	2.48
+321	Marseille - Rennes 1:3	1.57	4.20	5.81
+322	St Etienne - Angers 1:1	2.11	3.16	3.87
+323	Caen - Dijon 2:1	1.89	3.42	4.45
+324	Strasbourg - Amiens 0:1	2.03	3.33	3.96
+325	Nice - Monaco 4:0	4.54	3.86	1.77
+326	Metz - Paris SG 1:5	26.50	10.53	1.11
+327	Monaco - Marseille 6:1	1.60	4.12	5.63
+328	Guingamp - Strasbourg 2:0	1.78	3.59	4.88
+329	Caen - Metz 1:0	1.81	3.53	4.76
+330	Toulouse - Rennes 3:2	2.27	3.17	3.45
+331	St Etienne - Metz 3:1	1.60	3.86	6.15
+332	Dijon - Paris SG 1:2	19.45	8.49	1.14
+333	Angers - Lyon 3:3	3.31	3.40	2.21
+334	Guingamp - Toulouse 1:1	1.87	3.41	4.53
+335	Rennes - Caen 0:1	1.88	3.37	4.60
+336	Strasbourg - Nantes 1:2	2.58	3.04	3.04
+337	Caen - Amiens 1:0	1.94	3.24	4.47
+338	Metz - Troyes 0:1	2.13	3.27	3.69
+339	Nice - Angers 2:2	1.78	3.49	4.98
+340	Angers - Metz 0:1	1.56	3.98	6.58
+341	Amiens - Marseille 0:2	3.47	3.41	2.13
+342	Guingamp - Lille 1:0	2.07	3.34	3.82
+343	Troyes - Montpellier 0:1	2.93	3.15	2.60
+344	Lyon - Guingamp 2:1	1.41	4.86	7.74
+345	Montpellier - Nantes 0:1	2.22	3.10	3.69
+346	Troyes - Toulouse 0:0	2.88	3.21	2.59
+347	Lille - Bordeaux 0:0	2.77	3.25	2.67
+348	Angers - Lille 1:1	2.15	3.22	3.71
+349	Dijon - Montpellier 2:1	2.58	3.19	2.90
+350	Amiens - Nice 3:0	3.16	3.19	2.41
+351	Nantes - Lyon 0:0	3.62	3.49	2.07
+352	Paris SG - St Etienne 3:0	1.09	11.40	29.09
+353	Paris SG - Toulouse 6:2	1.08	11.15	30.34
+354	Lille - Caen 0:2	1.74	3.70	5.08
+355	Montpellier - Strasbourg 1:1	1.96	3.38	4.14
+356	Rennes - Dijon 2:2	1.73	3.73	4.99
+357	Troyes - Nantes 0:1	2.56	3.15	2.97
+358	Metz - Monaco 0:1	8.80	5.32	1.35
+359	Guingamp - Paris SG 0:3	12.65	6.13	1.24
+360	Strasbourg - Lille 3:0	3.59	3.45	2.10
+361	Amiens - Angers 0:2	3.04	3.06	2.56
+362	Caen - St Etienne 0:1	2.99	3.08	2.58
+363	Nantes - Marseille 0:1	3.07	3.21	2.44
+364	Rennes - Lyon 1:2	3.64	3.51	2.05
+365	Marseille - Dijon 3:0	1.30	5.53	10.49
+366	Lille - Nantes 3:0	2.11	3.21	3.83
+367	Lyon - Strasbourg 4:0	1.35	5.24	8.87
+368	Montpellier - Caen 1:0	1.82	3.54	4.65
+369	Troyes - Rennes 1:1	2.88	3.13	2.63
+370	Monaco - Toulouse 3:2	1.31	5.50	10.46
+371	Bordeaux - Troyes 2:1	1.42	4.63	8.13
+372	Marseille - Angers 1:1	1.67	3.75	5.58
+373	Nice - Guingamp 2:0	1.88	3.47	4.42
+374	St Etienne - Amiens 3:0	1.61	3.74	6.42
+375	Lyon - Bordeaux 3:3	1.67	3.97	5.17
+376	Dijon - Monaco 1:4	6.43	4.33	1.52
+377	Bordeaux - Metz 2:0	1.41	4.62	8.15
+378	Toulouse - Montpellier 1:0	2.31	3.13	3.42
+379	Nice - Troyes 1:2	1.51	4.16	6.90
+380	Angers - Bordeaux 2:2	2.46	3.07	3.19
+381	Metz - Guingamp 1:3	2.97	3.23	2.50
+382	St Etienne - Nice 1:0	2.39	3.13	3.25
+383	Paris SG - Amiens 2:0	1.09	10.98	29.50

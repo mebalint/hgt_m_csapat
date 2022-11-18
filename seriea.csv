@@ -1,0 +1,381 @@
+	Match	HOdds	DOdds	VOdds
+0	Lazio - Inter 2:3	2.58	3.61	2.68
+1	AC Milan - Fiorentina 5:1	1.67	4.08	4.89
+2	Chievo - Benevento 1:0	1.69	3.99	4.90
+3	Spal - Sampdoria 3:1	1.77	3.78	4.64
+4	Genoa - Torino 1:2	2.24	3.64	3.09
+5	Juventus - Verona 2:1	1.09	10.73	26.02
+6	AS Roma - Juventus 0:0	2.88	2.95	2.81
+7	Atalanta - AC Milan 1:1	2.19	2.99	4.01
+8	Crotone - Lazio 2:2	4.28	3.48	1.92
+9	Torino - Spal 2:1	1.92	3.48	4.29
+10	Inter - Sassuolo 1:2	1.19	7.34	14.13
+11	Cagliari - AS Roma 0:1	6.52	4.40	1.51
+12	Chievo - Crotone 2:1	2.22	3.11	3.71
+13	Lazio - Atalanta 1:1	1.95	3.59	3.99
+14	Spal - Benevento 2:0	1.50	4.45	6.53
+15	Juventus - Bologna 3:1	1.13	8.87	24.59
+16	Torino - Lazio 0:1	5.04	4.03	1.68
+17	Atalanta - Genoa 3:1	1.37	4.82	9.36
+18	Bologna - AC Milan 1:2	5.58	3.85	1.66
+19	Verona - Spal 1:3	3.30	3.24	2.32
+20	Inter - Juventus 2:3	3.02	3.14	2.58
+21	Genoa - Verona 3:1	1.42	4.54	8.32
+22	Juventus - Napoli 0:1	2.27	3.23	3.48
+23	Chievo - Inter 1:2	7.30	4.15	1.51
+24	Udinese - Crotone 1:2	1.97	3.28	4.40
+25	AC Milan - Benevento 0:1	1.23	6.51	13.60
+26	Spal - AS Roma 0:3	5.04	3.65	1.77
+27	Sassuolo - AS Roma 0:1	4.53	3.77	1.78
+28	Cagliari - Atalanta 1:0	3.18	3.57	2.21
+29	Napoli - Crotone 2:1	1.40	5.39	6.90
+30	Udinese - Bologna 1:0	1.51	4.25	6.60
+31	Sampdoria - Napoli 0:2	5.67	4.73	1.53
+32	Bologna - Chievo 1:2	2.28	3.06	3.49
+33	Fiorentina - Cagliari 0:1	1.55	4.34	5.94
+34	Verona - Udinese 0:1	7.71	4.94	1.40
+35	Benevento - Genoa 1:0	2.21	3.60	3.19
+36	Sassuolo - Sampdoria 1:0	2.26	3.44	3.23
+37	Genoa - Fiorentina 2:3	3.83	3.52	2.00
+38	Napoli - Torino 2:2	1.22	6.84	12.83
+39	Udinese - Inter 0:4	4.50	3.68	1.82
+40	AC Milan - Verona 4:1	1.12	9.83	22.62
+41	Fiorentina - Napoli 3:0	7.15	4.52	1.47
+42	Benevento - Udinese 3:3	2.96	3.32	2.45
+43	Sampdoria - Cagliari 4:1	1.93	3.55	4.14
+44	Crotone - Sassuolo 4:1	2.28	3.23	3.42
+45	AS Roma - Chievo 4:1	1.32	5.40	10.50
+46	Atalanta - Torino 2:1	1.55	4.18	6.41
+47	Lazio - Sampdoria 4:0	1.37	5.27	8.29
+48	Cagliari - Bologna 0:0	1.96	3.32	4.33
+49	Sassuolo - Fiorentina 1:0	2.95	3.23	2.54
+50	AS Roma - Genoa 2:1	1.34	5.14	10.20
+51	Fiorentina - Lazio 3:4	2.92	3.44	2.46
+52	Sampdoria - Bologna 1:0	1.70	3.81	5.16
+53	Torino - AC Milan 1:1	3.13	3.33	2.37
+54	Benevento - Atalanta 0:3	6.25	4.37	1.53
+55	Inter - Cagliari 4:0	1.21	6.69	16.00
+56	Lazio - AS Roma 0:0	2.56	3.32	2.87
+57	AC Milan - Napoli 0:0	4.26	3.55	1.90
+58	Sassuolo - Benevento 2:2	1.67	3.97	5.18
+59	Atalanta - Inter 0:0	2.61	3.25	2.84
+60	Genoa - Crotone 1:0	1.88	3.25	4.89
+61	AC Milan - Sassuolo 1:1	1.49	4.27	7.33
+62	Crotone - Bologna 1:0	2.40	3.17	3.25
+63	Verona - Cagliari 1:0	3.06	3.28	2.44
+64	Sampdoria - Genoa 0:0	2.48	3.21	3.06
+65	Spal - Atalanta 1:1	4.67	3.60	1.82
+66	AC Milan - Inter 0:0	2.77	3.20	2.71
+67	Torino - Crotone 4:1	1.58	3.96	6.32
+68	Atalanta - Sampdoria 1:2	1.38	5.01	8.52
+69	Udinese - Fiorentina 0:2	3.48	3.25	2.23
+70	Juventus - AC Milan 3:1	1.63	3.63	6.48
+71	Sassuolo - Napoli 1:1	8.46	4.64	1.41
+72	Cagliari - Torino 0:4	3.04	3.29	2.45
+73	Genoa - Spal 1:1	1.90	3.26	4.79
+74	Lazio - Benevento 6:2	1.23	6.58	13.48
+75	Lazio - Bologna 1:1	1.32	5.35	10.11
+76	Benevento - Cagliari 1:2	2.30	3.36	3.26
+77	Crotone - Juventus 1:1	11.58	4.99	1.32
+78	Napoli - Udinese 4:2	1.22	6.43	15.05
+79	Spal - Chievo 0:0	2.22	3.03	3.84
+80	Verona - Sassuolo 0:1	4.40	3.56	1.87
+81	Juventus - Sampdoria 3:0	1.31	5.25	11.92
+82	Bologna - Verona 2:0	1.60	3.94	6.06
+83	Fiorentina - Spal 0:0	1.50	4.18	7.41
+84	Chievo - Torino 0:0	3.46	3.31	2.22
+85	Cagliari - Udinese 2:1	2.42	3.11	3.26
+86	Udinese - Lazio 1:2	5.28	3.94	1.67
+87	Napoli - Chievo 2:1	1.15	8.03	21.17
+88	Torino - Inter 1:0	4.11	3.60	1.94
+89	AS Roma - Fiorentina 0:2	1.85	3.59	4.49
+90	Benevento - Juventus 2:4	12.69	5.31	1.29
+91	Chievo - Sassuolo 1:1	3.01	2.99	2.67
+92	Benevento - Verona 3:0	1.83	3.81	4.30
+93	Genoa - Cagliari 2:1	1.84	3.37	5.00
+94	Chievo - Sampdoria 2:1	2.31	3.31	3.26
+95	Atalanta - Udinese 2:0	1.44	4.46	8.13
+96	Fiorentina - Crotone 2:0	1.53	4.13	6.83
+97	Inter - Verona 3:0	1.16	8.36	17.97
+98	Bologna - AS Roma 1:1	6.05	4.26	1.56
+99	Napoli - Genoa 1:0	1.22	6.16	16.79
+100	AC Milan - Chievo 3:2	1.39	4.63	9.41
+101	Torino - Fiorentina 1:2	2.66	3.25	2.82
+102	Sampdoria - Inter 0:5	3.90	3.57	1.98
+103	Spal - Juventus 0:0	11.75	4.90	1.33
+104	Juventus - Atalanta 2:0	1.42	4.27	9.81
+105	Inter - Napoli 0:0	4.04	3.53	1.97
+106	Bologna - Atalanta 0:1	4.61	3.54	1.84
+107	Crotone - Sampdoria 4:1	2.71	3.25	2.73
+108	Sassuolo - Spal 1:1	2.08	3.28	3.92
+109	Verona - Chievo 1:0	3.82	3.32	2.11
+110	AS Roma - Torino 3:0	1.56	4.32	5.97
+111	Napoli - AS Roma 2:4	1.63	3.94	5.87
+112	Spal - Bologna 1:0	2.46	3.12	3.19
+113	Cagliari - Napoli 0:5	11.76	5.23	1.31
+114	AS Roma - AC Milan 0:2	2.08	3.39	3.77
+115	Sampdoria - Udinese 2:1	2.04	3.44	3.81
+116	Verona - Torino 2:1	5.87	4.06	1.61
+117	Inter - Benevento 2:0	1.25	6.17	12.85
+118	Lazio - Verona 2:0	1.19	7.34	15.86
+119	AC Milan - Sampdoria 1:0	1.65	3.95	5.45
+120	Benevento - Crotone 3:2	2.41	3.23	3.14
+121	Napoli - Spal 1:0	1.14	8.46	22.66
+122	Genoa - Inter 2:0	3.37	3.16	2.36
+123	Udinese - AS Roma 0:2	4.66	3.66	1.81
+124	AS Roma - Benevento 5:2	1.18	7.61	16.51
+125	Inter - Bologna 2:1	1.51	4.17	7.16
+126	Torino - Udinese 2:0	1.78	3.69	4.85
+127	Napoli - Lazio 4:1	1.81	3.61	4.89
+128	Spal - AC Milan 0:4	4.67	3.48	1.85
+129	Fiorentina - Juventus 0:2	4.86	3.39	1.86
+130	Crotone - AS Roma 0:2	6.12	4.10	1.58
+131	Verona - Atalanta 0:5	8.80	4.73	1.41
+132	Udinese - Sassuolo 1:2	2.18	3.26	3.64
+133	Genoa - AC Milan 0:1	3.47	3.16	2.29
+134	Cagliari - Lazio 2:2	6.46	4.27	1.53
+135	Juventus - Udinese 2:0	1.23	6.03	16.61
+136	Fiorentina - Benevento 1:0	1.39	4.81	8.60
+137	Lazio - Juventus 0:1	3.24	3.20	2.37
+138	Fiorentina - Chievo 1:0	1.48	4.26	7.59
+139	Sassuolo - Lazio 0:3	4.35	3.62	1.86
+140	Crotone - Spal 2:3	2.27	3.12	3.56
+141	Bologna - Genoa 2:0	2.91	2.90	2.84
+142	Atalanta - Fiorentina 1:1	2.36	3.27	3.21
+143	Bologna - Sassuolo 2:1	2.64	3.12	2.93
+144	Torino - Juventus 0:1	5.09	3.52	1.78
+145	Chievo - Cagliari 2:1	2.20	3.10	3.79
+146	Chievo - Genoa 0:1	3.02	3.04	2.63
+147	Sampdoria - Verona 2:0	1.47	4.54	7.13
+148	Sassuolo - Cagliari 0:0	2.02	3.38	3.98
+149	Crotone - Atalanta 1:1	4.44	3.50	1.89
+150	Lazio - Genoa 1:2	1.49	4.19	7.62
+151	Benevento - Napoli 0:2	17.59	7.58	1.17
+152	Bologna - Fiorentina 1:2	3.26	3.31	2.31
+153	Juventus - Sassuolo 7:0	1.23	6.24	15.11
+154	Verona - AS Roma 0:1	8.36	4.97	1.40
+155	Inter - Crotone 1:1	1.28	5.47	13.18
+156	AS Roma - Sampdoria 0:1	1.39	5.01	8.22
+157	Crotone - Cagliari 1:1	2.60	3.00	3.08
+158	Genoa - Udinese 0:1	2.30	3.12	3.48
+159	Torino - Benevento 3:0	1.42	4.76	7.67
+160	Chievo - Juventus 0:2	10.31	4.85	1.35
+161	Sampdoria - AS Roma 1:1	3.78	3.65	1.99
+162	Juventus - Genoa 1:0	1.25	5.75	15.01
+163	Inter - AS Roma 1:1	2.45	3.48	2.91
+164	Bologna - Benevento 3:0	1.72	3.64	5.39
+165	Sampdoria - Fiorentina 3:1	3.07	3.32	2.42
+166	Udinese - Spal 1:1	1.84	3.57	4.58
+167	Atalanta - Napoli 0:1	3.75	3.41	2.08
+168	Cagliari - Juventus 0:1	10.00	5.12	1.34
+169	AC Milan - Crotone 1:0	1.29	5.79	11.62
+170	Genoa - Sassuolo 1:0	2.32	3.15	3.43
+171	Spal - Lazio 2:5	5.83	3.89	1.63
+172	Fiorentina - Inter 1:1	2.60	3.24	2.89
+173	Verona - Juventus 1:3	15.72	6.62	1.21
+174	AS Roma - Sassuolo 1:1	1.28	5.96	10.86
+175	Benevento - Chievo 1:0	2.96	3.35	2.46
+176	Sampdoria - Spal 2:0	1.85	3.56	4.56
+177	Atalanta - Chievo 1:0	1.45	4.54	7.87
+178	Cagliari - Spal 2:0	2.10	3.32	3.80
+179	Udinese - AC Milan 1:1	3.42	3.30	2.25
+180	Sampdoria - Torino 1:1	2.30	3.50	3.13
+181	AC Milan - Lazio 2:1	2.46	3.33	2.97
+182	Fiorentina - Verona 1:4	1.27	5.85	12.31
+183	Napoli - Bologna 3:1	1.19	7.23	15.39
+184	Spal - Inter 1:1	5.76	3.90	1.63
+185	Sassuolo - Atalanta 0:3	2.99	3.26	2.49
+186	Lazio - Udinese 3:0	1.55	4.16	6.48
+187	Cagliari - AC Milan 1:2	3.99	3.45	2.00
+188	Lazio - Chievo 5:1	1.30	5.76	10.31
+189	Sassuolo - Torino 1:1	2.63	3.20	2.87
+190	Verona - Crotone 0:3	2.35	3.17	3.33
+191	AS Roma - Atalanta 1:2	1.90	3.53	4.32
+192	Benevento - Sampdoria 3:2	3.75	3.46	2.06
+193	Napoli - Verona 2:0	1.10	10.82	26.41
+194	Torino - Bologna 3:0	2.01	3.47	3.95
+195	Chievo - Udinese 1:1	3.17	3.15	2.45
+196	Inter - Lazio 0:0	2.32	3.51	3.11
+197	Atalanta - Cagliari 1:2	1.45	4.54	7.82
+198	Bologna - Udinese 1:2	2.48	3.10	3.16
+199	Torino - Genoa 0:0	2.36	3.18	3.32
+200	Fiorentina - AC Milan 1:1	2.37	3.30	3.17
+201	Crotone - Napoli 0:1	15.10	6.68	1.21
+202	Juventus - AS Roma 1:0	1.73	3.76	5.18
+203	Genoa - Benevento 1:0	1.47	4.34	7.62
+204	Sassuolo - Inter 1:0	5.09	3.76	1.73
+205	Udinese - Verona 4:0	1.72	3.87	4.99
+206	Cagliari - Fiorentina 0:1	3.20	3.30	2.36
+207	Atalanta - Lazio 3:3	2.25	3.36	3.35
+208	Bologna - Juventus 0:3	7.90	4.32	1.46
+209	Fiorentina - Genoa 0:0	1.76	3.60	5.08
+210	Verona - AC Milan 3:0	6.04	4.27	1.56
+211	AS Roma - Cagliari 1:0	1.24	6.49	12.84
+212	Inter - Udinese 1:3	1.34	5.25	9.71
+213	Genoa - Atalanta 1:2	3.23	3.33	2.32
+214	Lazio - Torino 1:3	1.52	4.43	6.35
+215	AC Milan - Bologna 2:1	1.54	4.10	6.84
+216	Napoli - Fiorentina 0:0	1.44	4.77	7.32
+217	Udinese - Benevento 2:0	1.48	4.44	7.16
+218	Juventus - Inter 0:0	1.89	3.46	4.54
+219	Verona - Genoa 0:1	3.38	3.39	2.21
+220	Sampdoria - Lazio 1:2	3.63	3.76	2.01
+221	Fiorentina - Sassuolo 3:0	1.59	4.18	5.81
+222	Benevento - AC Milan 2:2	9.37	5.37	1.34
+223	Torino - Atalanta 1:1	2.62	3.43	2.72
+224	Napoli - Juventus 0:1	2.17	3.25	3.73
+225	Atalanta - Benevento 1:0	1.22	6.42	14.88
+226	Juventus - Crotone 3:0	1.14	8.19	23.48
+227	AC Milan - Torino 0:0	1.77	3.78	4.70
+228	Udinese - Napoli 0:1	9.81	5.31	1.33
+229	Cagliari - Inter 1:3	5.05	3.98	1.69
+230	AC Milan - Atalanta 0:2	2.56	3.30	2.89
+231	Napoli - Sampdoria 3:2	1.21	6.92	13.70
+232	Spal - Torino 2:2	3.14	3.30	2.39
+233	Lazio - Crotone 4:0	1.26	6.12	11.91
+234	Chievo - Bologna 2:3	2.59	3.09	3.02
+235	Benevento - Spal 1:2	2.63	3.24	2.82
+236	Crotone - Chievo 1:0	2.96	3.08	2.63
+237	Sampdoria - Sassuolo 0:1	1.92	3.65	4.05
+238	Torino - Napoli 1:3	5.11	3.88	1.70
+239	Sassuolo - Crotone 2:1	1.73	3.66	5.28
+240	Spal - Verona 2:2	2.16	3.35	3.57
+241	Chievo - AS Roma 0:0	5.71	4.04	1.62
+242	Cagliari - Sampdoria 2:2	2.50	3.40	2.89
+243	Crotone - Udinese 0:3	3.22	3.14	2.43
+244	Bologna - Cagliari 1:1	2.11	3.30	3.78
+245	Inter - Chievo 5:0	1.41	4.76	8.33
+246	AS Roma - Spal 3:1	1.24	6.43	13.17
+247	Lazio - Fiorentina 1:1	1.68	4.01	5.03
+248	Genoa - AS Roma 1:1	5.04	3.85	1.71
+249	Chievo - Spal 2:1	1.78	3.60	4.97
+250	Sassuolo - Verona 0:2	1.67	3.96	5.28
+251	Verona - Bologna 2:3	3.27	3.21	2.37
+252	Inter - Atalanta 2:0	1.82	3.58	4.72
+253	Sampdoria - Juventus 3:2	6.27	4.04	1.58
+254	Torino - Chievo 1:1	1.77	3.76	4.71
+255	Crotone - Genoa 0:1	3.19	3.20	2.41
+256	Napoli - AC Milan 2:1	1.47	4.72	6.86
+257	Sassuolo - AC Milan 0:2	4.15	3.62	1.91
+258	Cagliari - Verona 2:1	1.84	3.60	4.58
+259	Fiorentina - AS Roma 2:4	3.24	3.62	2.20
+260	Inter - Torino 1:1	1.58	4.28	5.78
+261	Genoa - Sampdoria 0:2	2.53	3.29	2.91
+262	Verona - Inter 1:2	8.46	5.22	1.37
+263	Torino - Cagliari 2:1	1.57	4.31	5.81
+264	Napoli - Sassuolo 3:1	1.14	9.27	17.29
+265	Spal - Genoa 1:0	3.06	3.13	2.53
+266	Benevento - Lazio 1:5	10.50	5.86	1.29
+267	AS Roma - Bologna 1:0	1.33	5.48	9.65
+268	AS Roma - Crotone 1:0	1.17	7.67	17.04
+269	Cagliari - Benevento 2:1	1.66	3.94	5.36
+270	Fiorentina - Torino 3:0	1.75	3.94	4.62
+271	Juventus - Spal 4:1	1.12	9.34	24.03
+272	Atalanta - Verona 3:0	1.33	5.46	9.93
+273	Inter - Sampdoria 3:2	1.44	4.76	7.48
+274	Lazio - Cagliari 3:0	1.25	6.38	11.38
+275	AC Milan - Genoa 0:0	1.61	4.00	5.79
+276	Benevento - Fiorentina 0:3	6.06	4.37	1.54
+277	Torino - AS Roma 0:1	3.65	3.76	1.99
+278	Napoli - Inter 0:0	1.50	4.64	6.34
+279	Bologna - Sampdoria 3:0	2.48	3.30	2.99
+280	Benevento - Sassuolo 1:2	3.30	3.43	2.24
+281	Spal - Fiorentina 1:1	4.06	3.56	1.95
+282	Udinese - Cagliari 0:1	1.98	3.52	3.96
+283	AS Roma - Lazio 2:1	2.22	3.50	3.28
+284	Atalanta - Spal 1:1	1.35	5.05	9.54
+285	Chievo - Napoli 0:0	7.84	4.80	1.42
+286	Juventus - Benevento 2:1	1.06	15.33	38.94
+287	Bologna - Crotone 2:3	1.78	3.46	5.27
+288	Crotone - Fiorentina 2:1	5.42	3.98	1.65
+289	Sampdoria - Chievo 4:1	2.10	3.44	3.65
+290	Udinese - Atalanta 2:1	3.81	3.44	2.05
+291	AC Milan - Juventus 0:2	4.14	3.58	1.92
+292	Bologna - Lazio 1:2	4.94	3.72	1.75
+293	Chievo - AC Milan 1:4	3.45	3.35	2.21
+294	Genoa - Napoli 2:3	8.27	4.91	1.39
+295	Sassuolo - Udinese 0:1	1.91	3.56	4.23
+296	Udinese - Juventus 2:6	8.84	4.64	1.40
+297	Atalanta - Bologna 1:0	1.60	3.96	6.13
+298	Spal - Sassuolo 0:1	2.92	3.35	2.48
+299	Chievo - Verona 3:2	2.05	3.38	3.86
+300	Sampdoria - Crotone 5:0	1.55	4.14	6.59
+301	Verona - Benevento 1:0	1.88	3.60	4.30
+302	Inter - AC Milan 3:2	2.21	3.34	3.50
+303	Cagliari - Genoa 2:3	2.42	3.19	3.20
+304	Sampdoria - Atalanta 3:1	3.26	3.33	2.31
+305	Fiorentina - Udinese 2:1	1.64	3.95	5.63
+306	AS Roma - Napoli 0:1	3.24	3.60	2.21
+307	Atalanta - Juventus 2:2	4.96	3.51	1.81
+308	Benevento - Inter 1:2	10.52	5.80	1.29
+309	Lazio - Sassuolo 6:1	1.52	4.38	6.59
+310	Torino - Verona 2:2	1.31	5.75	10.12
+311	Genoa - Bologna 0:1	2.25	3.23	3.48
+312	Fiorentina - Atalanta 1:1	2.28	3.42	3.24
+313	Cagliari - Chievo 0:2	2.25	3.29	3.41
+314	Inter - Genoa 1:0	1.34	5.25	9.58
+315	Sampdoria - AC Milan 2:0	3.70	3.63	2.03
+316	Juventus - Torino 4:0	1.40	4.85	8.46
+317	AS Roma - Udinese 3:1	1.24	6.40	12.58
+318	AC Milan - Spal 2:0	1.24	6.34	12.94
+319	Cagliari - Sassuolo 0:1	2.19	3.43	3.41
+320	Juventus - Fiorentina 1:0	1.38	4.87	8.96
+321	Udinese - Torino 2:3	3.14	3.54	2.27
+322	Benevento - AS Roma 0:4	9.52	5.56	1.32
+323	Bologna - Inter 1:1	5.92	4.01	1.61
+324	Genoa - Lazio 2:3	4.07	3.58	1.94
+325	AC Milan - Udinese 2:1	1.38	4.92	8.64
+326	Spal - Cagliari 0:2	2.42	3.30	3.04
+327	Sassuolo - Juventus 1:3	7.93	4.32	1.47
+328	AS Roma - Verona 3:0	1.20	7.02	14.52
+329	Bologna - Spal 2:1	1.96	3.34	4.29
+330	Crotone - Torino 2:2	3.40	3.35	2.23
+331	Sassuolo - Chievo 0:0	2.23	3.29	3.48
+332	Juventus - Lazio 1:2	1.57	4.16	6.13
+333	AC Milan - AS Roma 0:2	2.52	3.54	2.76
+334	Chievo - Fiorentina 2:1	2.92	3.29	2.52
+335	Spal - Crotone 1:1	1.92	3.41	4.39
+336	Napoli - Cagliari 3:0	1.13	9.59	20.80
+337	Udinese - Sampdoria 4:0	2.56	3.30	2.90
+338	Sassuolo - Bologna 0:1	2.08	3.33	3.87
+339	Crotone - Benevento 2:0	2.01	3.31	4.14
+340	Verona - Lazio 0:3	5.92	4.22	1.58
+341	Spal - Napoli 2:3	12.82	6.50	1.24
+342	Atalanta - Crotone 5:1	1.37	4.84	9.76
+343	Genoa - Chievo 1:1	2.23	3.27	3.48
+344	Lazio - Napoli 1:4	3.45	3.59	2.11
+345	Verona - Sampdoria 0:0	3.59	3.43	2.12
+346	Chievo - Atalanta 1:1	2.96	3.24	2.53
+347	Napoli - Benevento 6:0	1.10	10.52	24.06
+348	Torino - Sampdoria 2:2	1.71	3.98	4.83
+349	Fiorentina - Bologna 2:1	1.54	4.21	6.41
+350	Crotone - Inter 0:2	8.36	4.76	1.40
+351	Bologna - Napoli 0:3	9.02	5.12	1.36
+352	Lazio - AC Milan 4:1	2.37	3.52	3.05
+353	Cagliari - Crotone 1:0	1.63	3.97	5.77
+354	Verona - Fiorentina 0:5	3.72	3.49	2.06
+355	Juventus - Chievo 3:0	1.24	6.06	14.21
+356	AC Milan - Cagliari 2:1	1.31	5.50	10.20
+357	Crotone - Verona 0:0	2.72	3.18	2.78
+358	Napoli - Atalanta 3:1	1.35	5.21	9.00
+359	Torino - Sassuolo 3:0	1.67	4.02	5.16
+360	AS Roma - Inter 1:3	2.23	3.52	3.22
+361	Genoa - Juventus 2:4	8.23	4.40	1.44
+362	Bologna - Torino 1:1	3.22	3.35	2.31
+363	Inter - Fiorentina 3:0	1.51	4.33	6.75
+364	Sampdoria - Benevento 2:1	1.63	3.94	5.72
+365	Udinese - Chievo 1:2	2.05	3.34	3.93
+366	Verona - Napoli 1:3	7.88	4.80	1.41
+367	Benevento - Torino 0:1	3.99	3.67	1.93
+368	Atalanta - Sassuolo 2:1	1.63	3.93	5.81
+369	Udinese - Genoa 1:0	2.44	3.17	3.18
+370	Inter - Spal 2:0	1.22	6.74	13.59
+371	Chievo - Lazio 1:2	3.93	3.46	2.01
+372	Fiorentina - Sampdoria 1:2	1.69	4.07	4.89
+373	Spal - Udinese 3:2	2.49	3.27	2.99
+374	Benevento - Bologna 0:1	2.63	3.22	2.83
+375	Crotone - AC Milan 0:3	7.07	4.24	1.50
+376	Lazio - Spal 0:0	1.28	5.82	11.13
+377	Sassuolo - Genoa 0:0	1.93	3.54	4.16
+378	Atalanta - AS Roma 0:1	2.90	3.42	2.46
+379	Juventus - Cagliari 3:0	1.15	8.27	20.48
