@@ -1,1 +1,1 @@
-# hgt
+# Haladó Gépi Tanuás
