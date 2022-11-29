@@ -8,9 +8,6 @@ Ebben a projektben labdarúgómérkőzések kimeneteleit szeretnénk prediktáln
 - On the use of passing network indicators to predict football outcomes (Riccardo Ievoli, Lucio Palazzo, Giancarlo Ragozini)
 - Is a social network approach relevant to football results? (R Pablo Medina, Sebastián Carrasco, José Rogan, Felipe Montes, Jose D. Meisel, Pablo Lemoine, Carlos Lago Peñas, Juan Alejandro Valdivia)
 
+A projektben használt adatok közelben sem voltak tiszták, így az adattisztításra egy különböző Colab-on dolgoztunk.
 
-adatmagyarazat:
-A projektben szereplő adatokat 
-
-Megjegyezni a csúnya adatot, illetve az adatelőkészítés lépéseit (honnan szereztünk odds-ot és possession)
-
+Az Odds-okat illetve a meccsekhez tartozó labdabirtoklási statisztikákat web scraping-el az oddsportal.com weblapról nyertük ki.
