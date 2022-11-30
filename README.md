@@ -1,8 +1,12 @@
 # Haladó Gépi Tanulás (M csapat)
 
+## Első projekt (Sentiment Analysis IMDb adathalmazon)
+
+A projekt ezen részén az en_core_web_sm modellel ismerkedtünk meg, és teszteltük le.
+
 ## Második projekt (Labdarúgás eredmény predickió)
 
-Ebben a projektben labdarúgómérkőzések kimeneteleit szeretnénk prediktálni gépi tanulással.
+Ebben a projektben labdarúgómérkőzések kimeneteleit szeretnénk prediktálni gépi tanulással, illetve hálózatelméleti mértékek segítségével.
 
 A projektben az alábbi irodalmakat használtuk fel:
 
