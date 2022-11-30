@@ -2,7 +2,7 @@
 
 ## Első projekt (Sentiment Analysis IMDb adathalmazon)
 
-A projekt ezen részén az en_core_web_sm modellel ismerkedtünk meg, és teszteltük le.
+A projekt ezen részén az en_core_web_sm modellel ismerkedtünk meg, és teszteltük le az alábbi nyilvános adathalmazon: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/metadata?fbclid=IwAR1jviGz_kIpD87PoL23WxaPrtNW8B84E0Zuf3aw6DnIvcaw-rcWSoXUWgU.
 
 ## Második projekt (Labdarúgás eredmény predickió)
 
