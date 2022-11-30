@@ -6,9 +6,9 @@ A projekt ezen részén az en_core_web_sm modellel ismerkedtünk meg, és teszte
 
 ## Második projekt (Labdarúgás eredmény predickió)
 
-Ebben a projektben labdarúgómérkőzések kimeneteleit szeretnénk prediktálni gépi tanulással, illetve hálózatelméleti mértékek segítségével.
+A projekt ezen részén labdarúgómérkőzések kimeneteleit szeretnénk prediktálni gépi tanulással, illetve hálózatelméleti mértékek segítségével.
 
-A projektben az alábbi irodalmakat használtuk fel:
+Az alábbi irodalmakat használtuk fel:
 
 - Magyar bajnoki labdarúgó-mérkőzések eredményének előrejelzése valószínűségi és gépi tanulási modellekkel (Pintér József és Ragács Attila TDK)
 - On the use of passing network indicators to predict football outcomes (Riccardo Ievoli, Lucio Palazzo, Giancarlo Ragozini)
