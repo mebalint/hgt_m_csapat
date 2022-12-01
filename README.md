@@ -14,6 +14,6 @@ Az alábbi irodalmakat használtuk fel:
 - On the use of passing network indicators to predict football outcomes (Riccardo Ievoli, Lucio Palazzo, Giancarlo Ragozini)
 - Is a social network approach relevant to football results? (R Pablo Medina, Sebastián Carrasco, José Rogan, Felipe Montes, Jose D. Meisel, Pablo Lemoine, Carlos Lago Peñas, Juan Alejandro Valdivia)
 
-A projektben használt adatok közelben sem voltak tiszták, így az adattisztításra egy különböző Colab-on került sor. Az adat nyilvános volt, az alábbi linket megtekinthető: https://figshare.com/collections/Soccer_match_event_dataset/4415000.
+A projektben használt adatok közelben sem voltak tiszták, így az adattisztításra egy különböző Colab-on került sor (football_data). Az adat nyilvános volt, az alábbi linket megtekinthető: https://figshare.com/collections/Soccer_match_event_dataset/4415000.
 
 Az Odds-okat illetve a meccsekhez tartozó labdabirtoklási statisztikákat web scraping-el az oddsportal.com weblapról nyertük ki.
